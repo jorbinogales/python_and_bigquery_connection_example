@@ -6,18 +6,15 @@
 
 ## Requeriments
 
-#### GCLOUD CLIENT [YOU CAN INSTALL HERE](https://cloud.google.com/sdk/docs/install) <br>
-#### PUBSUB COMPONENT INSTALLED 
-```
-gcloud components install pubsub-emulator
-```
+
+
 #### PYTHON SDK [YOU CAN INSTALL HERE](https://www.python.org/downloads/)
 
 ## Getting started
 
 ```
-git clone https://github.com/jorbinogales/pubsub_python_cloud_function_test_local
-cd pubsub_python_cloud_function_test_local
+git clone https://github.com/jorbinogales/python_and_bigquery_connection_example
+cd python_and_bigquery_connection_example
 pip install -r requeriments.txt
 ```
 
